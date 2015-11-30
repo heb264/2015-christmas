@@ -67,12 +67,13 @@ body {
     }
 
 #welcome{
+  font-family: 'Niconne', cursive;
   font-size:2em;
          margin:4%;
          text-align:center;
          background-color:#fff;
-         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
-         background:rgba(255,255,255,.75);
+         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=35)";
+         background:rgba(255,255,255,.35);
          border-radius:10px;
          box-shadow:4px 4px 10px 0 rgba(20,20,20,.6);
          text-shadow: 2px 2px 3px #fff;
