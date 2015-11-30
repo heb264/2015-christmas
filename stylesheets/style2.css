@@ -4,13 +4,13 @@
       box-sizing: border-box;
 		}
 body {
-			background: #c00405;
+			background: #000000;
 			color: #fff;
 			overflow: hidden;
 			-ms-touch-action: none;
 		}
 .module-card-wrap {
-      max-width: 70%;
+      max-width: 90%;
       display: flex;
       flex-wrap: wrap;
       margin: 0 auto;
@@ -64,6 +64,24 @@ body {
       margin-top: auto;
       padding: 10px;
     }
+
+#welcome{
+  font-size:2em;
+         width:40%;
+         margin:4%;
+         text-align:center;
+         background-color:#fff;
+         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+         background:rgba(255,255,255,.75);
+         border-radius:10px;
+         box-shadow:4px 4px 10px 0 rgba(20,20,20,.6);
+         text-shadow: 2px 2px 3px #fff;
+         font-style:italic;
+         padding:1em;
+         color:#700;
+         color:rgba(120,0,20,.9)
+
+}
 
 @media screen and (min-width: 600px) {
       .module-card {
