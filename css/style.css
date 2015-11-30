@@ -1,0 +1,20 @@
+* {
+			padding: 0;
+			margin: 0;
+		}
+		body {
+			background: #c00405;
+			color: #fff;
+			overflow: hidden;
+			-ms-touch-action: none;
+		}
+		canvas {
+			-ms-touch-action: none;
+		}
+		txt{
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 14px;
+			color:#FFF;
+		}txt a{
+			color:#FF0;
+		}
