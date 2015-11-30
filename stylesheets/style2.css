@@ -4,13 +4,13 @@
       box-sizing: border-box;
 		}
 body {
-			background: #000000;
+			background: #000;
 			color: #fff;
 			overflow: hidden;
 			-ms-touch-action: none;
 		}
 .module-card-wrap {
-      max-width: 90%;
+      max-width: 99%;
       display: flex;
       flex-wrap: wrap;
       margin: 0 auto;
@@ -30,6 +30,7 @@ body {
 .module-card-title {
       font-size: 120%;
       font-weight: 700;
+      color: #f1f1f1;
     }
 
 .module-card-meta {
