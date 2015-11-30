@@ -37,9 +37,9 @@ body {
 
 }
 
-h1,{
+h1{
   font-family: 'Amaranth', sans-serif;
-  font-size: 120%;
+  font-size: 3em;
   color:#f1f1f1;
   margin:36px 0 10px;
 }
